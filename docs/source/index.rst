@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+BENBET – Cổng Game Đổi Thưởng Uy Tín Hàng Đầu Châu Á 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`BenBet <https://benhay.live/>`_ là một cổng game đẳng cấp quốc tế, cung cấp đa dạng các trò chơi giải trí hấp dẫn như: Slots, Casino trực tuyến, Thể thao, Bắn cá, và nhiều game khác. Với giao diện thân thiện, hệ thống bảo mật cao cấp và dịch vụ chăm sóc khách hàng 24/7, BenBet cam kết mang đến trải nghiệm giải trí trực tuyến tuyệt vời nhất cho người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin chi tiết:
 
-.. note::
+Website: https://benhay.live/ 
 
-   This project is under active development.
+Địa chỉ: 79A Đ. Hồng Lạc, Phường 10, Tân Bình, Hồ Chí Minh, Việt Nam
 
-Contents
---------
+Email: info@benhay.live
 
-.. toctree::
+Phone: 0325877964
 
-   usage
-   api
+#benbet, #nha_cai_benbet, #cong_game_benbet
